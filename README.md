@@ -1,4 +1,4 @@
-### Hi baby 👋
+### Hi  👋
 
 
 - 🔭:Estudante do ensino médio
