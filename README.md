@@ -3,7 +3,7 @@
 
 - 🔭:Estudante do ensino médio
 - 🌱:Estudando Informática
-- 👯:I’m looking to collaborate on ...
+- 👯:Com carinho e amor tudo fica mais leve e bonito
 - 🤔:I’m looking for help with ...
 - 🇧🇷 :From Brazil
 - 🤍:I love myself
