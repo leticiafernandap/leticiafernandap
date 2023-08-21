@@ -10,9 +10,6 @@
 - ✝️:Jesus Follower
 - 🚗:Se nos amar é um pecado então sim somos culpados Nick(Culpa Mia)>>>
   
-  <div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leticiafernandap&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiafernandap&layout=compact&langs_count=16&theme=synthwave"/>
   
   
   </div>
