@@ -3,7 +3,7 @@
 
 - 🔭:Estudante do ensino médio
 - 🌱:Estudando Informática
-- 👯:Com carinho e amor tudo fica mais leve e bonito
+- 👯:Com dedicação e amor tudo fica mais leve e bonito
 - 🤔:I’m looking for help with ...
 - 🇧🇷 :From Brazil
 - 🤍:I love myself
