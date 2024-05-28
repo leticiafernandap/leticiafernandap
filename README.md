@@ -3,12 +3,10 @@
 
 - 🔭:Estudante do ensino médio
 - 🌱:Estudando Informática
-- 👯:Com dedicação e amor tudo fica mais leve e bonito
 - 🤔:I’m looking for help with ...
 - 🇧🇷 :From Brazil
-- 🤍:I love myself
 - ✝️:Jesus Follower
-- 🚗:Se nos amar é um pecado então sim somos culpados Nick(Culpa Mia)>>>
+
   
   
   <div align="center">  
